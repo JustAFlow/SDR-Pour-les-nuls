@@ -2,6 +2,7 @@
 Mieux comprendre les technologies SDR (Software Defined Radio) et leurs usages
 
 * Quelques liens pour être à l'aise avec GitHub
+ * [L'inévitable Hello World](https://guides.github.com/activities/hello-world/)
  * [Guide d'utilisation](https://guides.github.com)
  * [Aide en ligne du site](https://help.github.com/)
 
